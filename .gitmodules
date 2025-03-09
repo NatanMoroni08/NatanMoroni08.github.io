@@ -1,0 +1,3 @@
+[submodule "project-goat"]
+	path = project-goat
+	url = https://github.com/NatanMoroni08/project-goat.git
